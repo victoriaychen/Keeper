@@ -5,6 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright ⓒ {year}</p>
+      <p>Made by Victoria Chen</p>
     </footer>
   );
 }
